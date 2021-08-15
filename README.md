@@ -15,7 +15,7 @@ $ git clone https://github.com/gyusu/Anaconda-32bit-64bit-easy-shortcut C:/Anaco
 ```
 
 ### Step 2. set Environment Variables for Anaconda directory
-open cmd.exe with Administrator Right, and set Environment Variables as below
+open ***cmd.exe(not powershell)*** with Administrator Right, and set Environment Variables as below
 ```shell
 setx ANACONDA_32BIT "YOUR ANACONDA 32bit DIRECTORY PATH"
 setx ANACONDA_64BIT "YOUR ANACONDA 64bit DIRECTORY PATH"
